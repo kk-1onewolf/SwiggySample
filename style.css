@@ -1,3 +1,4 @@
+/* <!--for code to reflect pr-->*/
 body{
   background-color: white;
   color: rgb(20, 15, 5);
@@ -14,6 +15,7 @@ body{
 .box-1 h1{
   text-align: center;
 }
+/* <!--for code to reflect pr-->*/
 .navbar {
   width: 100%;
   height: auto;
@@ -36,6 +38,7 @@ body{
   margin: 0 15px;
   font-weight: bold;
 }
+/* <!--for code to reflect pr-->*/
 .navbar a {
   color: rgb(0, 0, 0);
   text-decoration: none;
@@ -52,6 +55,7 @@ body{
   flex: 1;
   margin-left: 20px;
 }
+/* <!--for code to reflect pr-->*/
 .middle__navbar{
   display: flex;
   align-content: center;
@@ -85,7 +89,7 @@ body{
   top : 280px;
   border-color: black;
 }
-/* learnt proper naming convention for variables */
+/* <!--for code to reflect pr-->*/
 .restraunt__image{
   height: 25vh;
   width: 18vw;
@@ -133,6 +137,7 @@ body{
   background-color: white;
   position: absolute;
 }
+/* <!--for code to reflect pr-->*/
 .item1{
   background-color: white;
   position: absolute;
