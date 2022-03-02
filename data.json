@@ -1,0 +1,23 @@
+[
+  {
+    "id":"item1",
+    "food_name":"Samosa",
+    "food_image":"samosa.jpeg",
+    "price":"Rs 20",
+    "food_description":"Aloo Stuffed snack"
+  },
+  {
+    "id":"item2",
+    "food_name":"Veg Pizza",
+    "food_image":"pizza.jpeg",
+    "price":"Rs 100",
+    "food_description":"Italian"
+  },
+  {
+    "id":"item3",
+    "food_name":"Noodle",
+    "food_image":"noodle.jpeg",
+    "price":"Rs 180",
+    "food_description":"Chinese"
+  }
+]
