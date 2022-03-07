@@ -1,0 +1,29 @@
+{
+  "Indian": [
+  {
+    "id":"1",
+    "food_name":"Samosa",
+    "food_image":"samosa.jpeg",
+    "price":20,
+    "food_description":"Aloo Stuffed snack"
+  }
+],
+"Italian": [
+  {
+    "id":"2",
+    "food_name":"Veg Pizza",
+    "food_image":"pizza.jpeg",
+    "price":100,
+    "food_description":"Italian"
+  }
+],
+  "Chinese": [
+  {
+    "id":"3",
+    "food_name":"Noodle",
+    "food_image":"noodle.jpeg",
+    "price":180,
+    "food_description":"Chinese"
+  }
+]
+}
