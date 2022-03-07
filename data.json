@@ -1,23 +1,29 @@
-[
+{
+  "Indian": [
   {
-    "id":"item1",
+    "id":"1",
     "food_name":"Samosa",
     "food_image":"samosa.jpeg",
-    "price":"Rs 20",
+    "price":20,
     "food_description":"Aloo Stuffed snack"
-  },
+  }
+],
+"Italian": [
   {
-    "id":"item2",
+    "id":"2",
     "food_name":"Veg Pizza",
     "food_image":"pizza.jpeg",
-    "price":"Rs 100",
+    "price":100,
     "food_description":"Italian"
-  },
+  }
+],
+  "Chinese": [
   {
-    "id":"item3",
+    "id":"3",
     "food_name":"Noodle",
     "food_image":"noodle.jpeg",
-    "price":"Rs 180",
+    "price":180,
     "food_description":"Chinese"
   }
 ]
+}
